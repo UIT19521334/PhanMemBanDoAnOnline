@@ -26,7 +26,7 @@
 - MongoDB.
 - Expo.
 ##Backend/Database/Diagram
-
+- Link picture.
 ## Tác giả
 - Hồ Quang Linh - 19521750.
 - Nguyễn Đức Chí Đạt - 19521334.
